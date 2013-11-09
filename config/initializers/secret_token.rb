@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-RailsinstallerOsxDemo::Application.config.secret_key_base = 'd5a6182879006b41c68c36a4cdea083f91afbc25f1fd9f452c42952b067d5c4099f88245832452f0b2700390ab67c976f207791f05bb9a967a4a4b7759d7d58c'
+RailsinstallerOsxDemo::Application.config.secret_key_base = '4c75b9de7b435c725e0a68ab5249db1b910557aac89bae2444e4edb997dd61e64d692f253e3a8a627a4871b5788cb1971c55ae8b71ebb4657cc093abf6d2839d'
